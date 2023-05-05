@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.19.0",
+    "cloudinary": "^1.36.4",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "joi": "^17.9.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql": "^2.18.1"
+  }
+}
