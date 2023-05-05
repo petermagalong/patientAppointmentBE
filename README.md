@@ -5,7 +5,7 @@
 Use `git clone` to clone this repo:
 
 ```console
-$ git clone https://github.com/prodgrammer21/nodejs-mysql.git
+$ git clone https://github.com/petermagalong/patientAppointmentBE.git
 ```
 
 or
